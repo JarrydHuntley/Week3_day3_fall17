@@ -52,7 +52,7 @@ namespace Week3_day3_fall17
 
         }
 
-        public void Move()
+        public virtual void Move()
         {
             //distanceTraveled = distanceTraveled + movementSpeed;
             distanceTraveled += movementSpeed;
