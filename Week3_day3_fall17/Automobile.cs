@@ -19,9 +19,11 @@ namespace Week3_day3_fall17
 
         public Automobile (int numberOfWheels, float wheelSize, int numberOfDoors, int seats, int carryingCapacity, string color, double movementSpeed)
         {
+            //these fields are in the Automobile class
             this.numberOfWheels = numberOfWheels;
             this.wheelSize = wheelSize;
             this.numberOfDoors = numberOfDoors;
+            // these fields are in the Vehicle Class
             this.seats = seats;
             this.carryingCapacity = carryingCapacity;
             this.color = color;
