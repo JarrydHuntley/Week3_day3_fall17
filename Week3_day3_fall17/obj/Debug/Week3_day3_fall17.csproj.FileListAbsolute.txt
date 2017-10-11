@@ -1,1 +1,6 @@
 c:\users\jarry\documents\visual studio 2015\Projects\Week3_day3_fall17\Week3_day3_fall17\bin\Debug\Week3_day3_fall17.exe.config
+c:\users\jarry\documents\visual studio 2015\Projects\Week3_day3_fall17\Week3_day3_fall17\bin\Debug\Week3_day3_fall17.exe
+c:\users\jarry\documents\visual studio 2015\Projects\Week3_day3_fall17\Week3_day3_fall17\bin\Debug\Week3_day3_fall17.pdb
+c:\users\jarry\documents\visual studio 2015\Projects\Week3_day3_fall17\Week3_day3_fall17\obj\Debug\Week3_day3_fall17.csprojResolveAssemblyReference.cache
+c:\users\jarry\documents\visual studio 2015\Projects\Week3_day3_fall17\Week3_day3_fall17\obj\Debug\Week3_day3_fall17.exe
+c:\users\jarry\documents\visual studio 2015\Projects\Week3_day3_fall17\Week3_day3_fall17\obj\Debug\Week3_day3_fall17.pdb
