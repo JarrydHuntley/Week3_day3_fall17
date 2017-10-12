@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Week3_day3_fall17
 {
-    class Aircraft :Vehicle
+    class Aircraft : Vehicle
     {
 
         private double altitude;
@@ -25,6 +25,11 @@ namespace Week3_day3_fall17
         {
             altitude += 10000.0d;
             base.Move();
+        }
+
+        public override string GetDistanceTraveled()
+        {
+            return "Altitude: " + altitude + "-" + base.GetDistanceTraveled();
         }
 
     }

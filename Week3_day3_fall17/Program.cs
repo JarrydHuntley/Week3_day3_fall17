@@ -20,18 +20,18 @@ namespace Week3_day3_fall17
             Automobile herbie = new Automobile(4, 13, 2, 4, 1500, "White", 88.0d);
             herbie.Move();
             herbie.Move();
-            Console.WriteLine("Automobile Distance Traveled: " + herbie.DistanceTraveled);
+            Console.WriteLine("Automobile " + herbie.GetDistanceTraveled());
 
 
             Boat boaty = new Boat(2, 500, "Red", 88.0d, .9d);
             boaty.Move();
             boaty.Move();
-            Console.WriteLine("Boat Distance Traveled: " + boaty.DistanceTraveled);
+            Console.WriteLine("Boat " + boaty.GetDistanceTraveled());
 
             Aircraft aircraft1 = new Aircraft(70, 100000, "Grey", 600.0d);
             aircraft1.Move();
             aircraft1.Move();
-            Console.WriteLine("Aircraft Distancec Traveled " + aircraft1.DistanceTraveled);
+            Console.WriteLine("Aircraft " + aircraft1.GetDistanceTraveled());
 
         }
     }
