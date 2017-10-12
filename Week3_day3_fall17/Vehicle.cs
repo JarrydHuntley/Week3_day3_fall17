@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Week3_day3_fall17
 {
-    class Vehicle
+    abstract class Vehicle
     {
         protected int seats;
         protected int carryingCapacity;
@@ -57,7 +57,5 @@ namespace Week3_day3_fall17
             //distanceTraveled = distanceTraveled + movementSpeed;
             distanceTraveled += movementSpeed;
         }
-
-
     }
 }
