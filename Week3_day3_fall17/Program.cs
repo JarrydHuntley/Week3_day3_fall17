@@ -28,6 +28,11 @@ namespace Week3_day3_fall17
             boaty.Move();
             Console.WriteLine("Boat Distance Traveled: " + boaty.DistanceTraveled);
 
+            Aircraft aircraft1 = new Aircraft(70, 100000, "Grey", 600.0d);
+            aircraft1.Move();
+            aircraft1.Move();
+            Console.WriteLine("Aircraft Distancec Traveled " + aircraft1.DistanceTraveled);
+
         }
     }
 }

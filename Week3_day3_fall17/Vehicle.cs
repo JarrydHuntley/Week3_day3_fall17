@@ -57,5 +57,7 @@ namespace Week3_day3_fall17
             //distanceTraveled = distanceTraveled + movementSpeed;
             distanceTraveled += movementSpeed;
         }
+
+
     }
 }
